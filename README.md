@@ -13,8 +13,3 @@ This project is an interactive web application that visualizes shots taken durin
 - [mplsoccer](https://mplsoccer.readthedocs.io/)
 
 Install dependencies via `pip` using the provided `requirements.txt` file.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
----
-
