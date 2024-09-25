@@ -2,6 +2,9 @@
 
 This project is an interactive web application that visualizes shots taken during the Euros 2024 tournament. The app allows users to filter shots based on specific teams and players and displays the shot locations on a soccer pitch, highlighting goals and non-goals. It leverages **Streamlit** for the front-end and **mplsoccer** for visualizing the soccer pitch and shot data.
 
+## Usage
+https://shotmap-euros24.streamlit.app/
+
 ## Features
 - **Interactive filtering**: Users can filter shots by team and player.
 - **Shot visualization**: Goals and non-goals are displayed differently with visual cues like color, size, and transparency.
